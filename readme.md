@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-Projeto Construido no evento Next Level Week da Rocketseat
+Projeto Construido para trabalho pessoal
 
 [Clique aqui para acessar (https://hiquesilva99.github.io/Crud/)]
 
